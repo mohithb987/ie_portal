@@ -3,8 +3,7 @@
 	<title>this is ashish page</title>
 </head>
 <body>
-<p style="text-align: center; font-size:40px; color: brown; background-color: lightgrey;"> Shop for Electronic items here! </p>
-<p style="font-size: 25px;"> Categories: </p>
+<
 <ul>
 	<li><a href="https://www.apple.com/in/iphone/?&cid=wwa-in-kwgo-iphone-slid-&mnid=sv0LhYgZi-dc_mtid_20925gyh65756_pcrid_431638207157_pgrid_105668579732_&mtid=20925gyh65756&aosid=p238&anonymizeip=set">Mobiles</a></li><br/>
 	<li><a href="https://www.myntra.com/watches">Watches</a></li><br/>
