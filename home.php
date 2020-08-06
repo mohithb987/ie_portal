@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Home</title>
+	<title>this is ashish page</title>
 </head>
 <body>
 <p style="text-align: center; font-size:40px; color: brown; background-color: lightgrey;"> Shop for Electronic items here! </p>
